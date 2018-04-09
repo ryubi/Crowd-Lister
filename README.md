@@ -1,2 +1,2 @@
 # Crowd-Lister
-Aggregates the top tracks from the most popular Spotify playlists that match your specific criteria. Enter a term that describes a playlist, like "Workout," and it will find the tracks that have appeared most frequently in workout playlists.
+Aggregates the top tracks from the most popular Spotify playlists that match your specific keyword criteria. Enter one or more term(s) that describes a playlist, such as workout or beach and it will find the tracks that have appeared most frequently in the playlists that match those keywords. These songs can then be added to your own playlist(s). This app is made with help from the Spotfiy Web API.
